@@ -1,5 +1,5 @@
 # Hello! <img src="https://github.com/debasish2110/debasish2110/blob/master/wave.gif" width="50px">, I am Debashish 
-<img align="right" src="https://github.com/99004351-Debashish/99004351-Debashish/blob/main/ltts%20gif.gif" width="280" height="auto" />
+<img align="right" src="https://github.com/99004351-Debashish/99004351-Debashish/blob/main/ltts%20gif.gif" height="100" width="100" height="auto" />
 
 - 🔭 I’m currently working as a part of StepIn program at [LnT Tech Services](https://www.ltts.com/)
 - 👨‍💻 I am a 22 years old developer....

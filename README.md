@@ -1,5 +1,18 @@
 # Hello! <img src="https://github.com/debasish2110/debasish2110/blob/master/wave.gif" width="50px">, I am Debashish 
 <img align="right" src="https://github.com/99004351-Debashish/99004351-Debashish/blob/main/ltts%20gif.gif" width="280" height="auto" />
+
+- 🔭 I’m currently working as a part of StepIn program at [LnT Tech Services](https://www.ltts.com/)
+- 👨‍💻 I am a 22 years old developer....
+- 👯 I’m looking to collaborate on AI, ML projects
+- ⚡  I love Playing Arcade games and Dark coffee
+- 📫 you can reach me: [My E-mail](mailto:debashish.dash@ltts.com)
+- 📙 Here is [my portfolio](https://debashishdash.herokuapp.com/)
+
+-----
+
+**Operating System:**
+
+<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <!--
 **99004351-Debashish/99004351-Debashish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

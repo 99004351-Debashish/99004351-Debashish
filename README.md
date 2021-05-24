@@ -5,7 +5,7 @@
 - 👨‍💻 I am a 22 years old developer....
 - 👯 I’m looking to collaborate on AI, ML projects
 - 🤔 I’m looking for help with Java-Script, React and Frontend Development....
-- ⚡  I love Playing Arcade games and Dark coffee
+- ⚡  I love Playing Arcade games and drinking Dark coffee
 - 📫 you can reach me: [My E-mail](mailto:debashish.dash@ltts.com)
 - 📙 Here is [my portfolio](https://debashishdash.herokuapp.com/)
 
@@ -27,7 +27,7 @@
 
 -----
 
-**I use these👇 Operating Systems:**
+**I use 👇following👇 Operating Systems:**
 
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <!--

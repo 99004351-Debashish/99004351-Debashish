@@ -9,7 +9,7 @@
 - 📫 you can reach me: [My E-mail](mailto:debashish.dash@ltts.com)
 - 📙 Here is [my portfolio](https://debashishdash.herokuapp.com/)
 
-## 👇Connect me(mostly active on twitter)👇
+## Connect me👇(mostly active on twitter)
 
 <a href="https://twitter.com/Debashish2110">
   <img align="left" alt="Debashish| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg?&logoColor=white" />

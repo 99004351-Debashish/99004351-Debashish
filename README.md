@@ -11,9 +11,6 @@
 
 ## Connect me👇(mostly active on twitter)
 
-<a href="https://twitter.com/Debashish2110">
-  <img align="left" alt="Debashish| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg?&logoColor=white" />
-</a>
 <a href="https://www.linkedin.com/in/debashish98/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -22,6 +19,9 @@
 </a>
 <a href="https://dev.to/debasish2110">
   <img align="left" alt="Dev.to" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Debashish's DEV Profile" width="22">
+</a>
+<a href="https://twitter.com/Debashish2110">
+  <img align="left" alt="Debashish| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg?&logoColor=white" />
 </a>
 <br>
 
